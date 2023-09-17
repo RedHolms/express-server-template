@@ -1,0 +1,9 @@
+{
+  "index": "index.html",
+  "error_pages": {
+    "404": "errors/404.html"
+  },
+  "pages": {
+    "link": "link.html"
+  }
+}
